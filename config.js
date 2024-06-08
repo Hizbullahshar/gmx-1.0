@@ -23,9 +23,9 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['919131652091']
-global.prems = ['919131652091']
-global.allowed = ['919131652091']
+global.mods = ['923278974102']
+global.prems = ['923278974102']
+global.allowed = ['923278974102']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -71,11 +71,11 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'true'
-global.packname = ''
-global.author = 'RIRURU'
-global.menuvid = 'https://imgur.com/HH0g2sa.mp4'
+global.packname = 'ᴍᴀᴅᴇ ʙʏ'
+global.author = 'ᴀʟᴀɴ ᴡᴀʟᴋᴇʀ'
+global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = 'https://bot-support.vercel.app/'
-global.dygp = 'https://bot-support.vercel.app/'
+global.dygp = 'https://chat.whatsapp.com/KlSW8y9vDAh5ism0aN4i7a'
 global.fgsc = 'https://bot-support.vercel.app/'
 global.fgyt = 'https://bot-support.vercel.app/'
 global.fgpyp = 'https://bot-support.vercel.app/'
